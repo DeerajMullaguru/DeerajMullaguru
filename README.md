@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:swethareddy.bodlapati17@gmail.com">
+<a href="mailto:deerajmullaguru22@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -310,7 +310,7 @@ Designed a comprehensive evaluation framework for measuring AI application quali
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SaiSwethaBodlapati&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=DeerajMullaguru&theme=tokyonight"/>
 
 </p>
 
